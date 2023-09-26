@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tillu.gitT/static/css/main.c05d4fdf.css",
+    "main.js": "/tillu.gitT/static/js/main.e74ba5aa.js",
+    "static/js/787.719ec76d.chunk.js": "/tillu.gitT/static/js/787.719ec76d.chunk.js",
+    "index.html": "/tillu.gitT/index.html",
+    "main.c05d4fdf.css.map": "/tillu.gitT/static/css/main.c05d4fdf.css.map",
+    "main.e74ba5aa.js.map": "/tillu.gitT/static/js/main.e74ba5aa.js.map",
+    "787.719ec76d.chunk.js.map": "/tillu.gitT/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05d4fdf.css",
+    "static/js/main.e74ba5aa.js"
+  ]
+}
